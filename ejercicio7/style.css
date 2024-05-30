@@ -1,0 +1,23 @@
+.persona{
+    background: linear-gradient(160deg, rgb(136, 182, 222), rgb(63, 129, 146));
+    margin: 4%;
+    padding: 5%;
+    max-width: max-content;
+    border-radius: 10%;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-shadow: 1px 1px 10px rgb(168, 168, 168);
+}
+
+button{
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+button:hover:enabled{
+    background-color: rgb(109, 152, 189);
+    color: aliceblue;
+
+}
