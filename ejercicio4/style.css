@@ -1,0 +1,25 @@
+.contenedor{
+    /* background-color: rgb(6, 119, 218); */
+    background: linear-gradient(160deg, rgb(25, 132, 225),rgb(6, 77, 138));
+    margin: 4%;
+    padding: 5%;
+    max-width: max-content;
+    border-radius: 10%;
+    text-align: center;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-shadow: 1px 1px 10px black;
+    /* tengo que poner para que todo esté cuadrado a la pagina (revidar net) */
+}
+
+button{
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+button:hover{
+    background-color: rgb(25, 132, 225);
+    color: aliceblue;
+
+}
