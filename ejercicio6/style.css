@@ -1,0 +1,13 @@
+#formulario{
+    /* background-color: rgb(6, 119, 218); */
+    background: linear-gradient(160deg, rgb(255, 136, 0), rgb(248, 186, 116));
+    margin: 4%;
+    padding: 5%;
+    max-width: max-content;
+    border-radius: 10%;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-shadow: 1px 1px 10px rgb(168, 168, 168);
+}
